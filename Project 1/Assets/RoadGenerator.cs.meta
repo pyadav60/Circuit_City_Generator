@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: ed3714f8aa8d1ed4badcb6d1d8dc118e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - roadMaterial: {fileID: 2100000, guid: 9c8164bf8a029704299086fe8a88df01, type: 2}
+  - grass: {fileID: 2100000, guid: 4f1b1db866b9eb44ab2b13116aa9d928, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
